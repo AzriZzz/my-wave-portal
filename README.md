@@ -23,3 +23,9 @@ Deploying our contract to blockchain command
 ```
 npx hardhat run scripts/deploy.js --network rinkeby
 ```
+
+Replit Dashboard
+Select waveportal-baseline-student to see the UI App
+```
+https://replit.com/@MuhammadAzri3
+```
